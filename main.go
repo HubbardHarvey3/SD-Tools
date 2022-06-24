@@ -9,75 +9,57 @@ import (
 )
 
 type Message struct {
-  Name string
-  Title string
-  Month string
-  Episode int32
+	Name    string
+	Title   string
+	Month   string
+	Episode int32
 }
 
-type Entry struct {
-  Key string
-  value *Message
-}
 
-type byPriority []Entry
+func main() {
+	newMessage := Message{"SD-100-100-100", "Cool long title here", "Febarch", 581}
+  anotherMessage := Message{"SD-900-900-900", "Slightly Different Title", "Juntember", 582}
+	// b, err := json.Marshal(newMessage)
+	// if err != nil {
+	// 	fmt.Print(err)
+	// }
+	// fmt.Printf("%s\n", b)
 
-func (d byPriority) Len() int {
-  return len(d)
-}
-func (d byPriority) Less(i, j int) bool {
-  return d[i].value.Episode < d[j].value.Episode
-}
-func (d byPriority) Swap(i, j int) {
-  d[i], d[j] = d[j], d[i]
-}
+	// Read messages.json
+	content, err := ioutil.ReadFile("./messages.json")
+	if err != nil {
+		log.Fatal("Error when opening file: ", err)
+	}
+	var payload []Message
+	err = json.Unmarshal(content, &payload)
+	payload = append(payload, newMessage)
+  payload = append(payload, anotherMessage)
+	fmt.Printf("%T", payload)
 
-func printSorted(detail map[string]*Message) {
-  // Copy entries into a slice.
-  slice := make(byPriority, 0, len(detail))
-  for key, value := range detail {
-      slice = append(slice, Entry{key, value})
-  }
+	var sortedOut []int
 
-  // Sort the slice.
-  sort.Sort(slice)
+	for i := 0; i < len(payload); i++ {
+		sortedOut = append(sortedOut, int(payload[i].Episode))
+	}
 
-  // Iterate and print the entries in sorted order.
-  for _, entry := range slice {
-      fmt.Printf("%s : %v\n", entry.Key, entry.value)
-  }
-}
+	sort.Sort(sort.Reverse(sort.IntSlice(sortedOut)))
 
-func main()  {
-  newMessage := Message{"SD-100-100-100", "Cool long title here", "Febarch", 581}
+	var beginning int
+	var end int
+	beginning = sortedOut[0]
+	end = sortedOut[len(sortedOut)-1]
+	var orderedPayload []Message
 
-  // b, err := json.Marshal(newMessage)
-  // if err != nil {
-  // 	fmt.Print(err)
-  // }
-  // fmt.Printf("%s\n", b)
-
-  // Read messages.json
-  content, err := ioutil.ReadFile("./messages.json")
-  if err != nil {
-    log.Fatal("Error when opening file: ", err)
-  }
-  // fmt.Printf("%s\n",content)
-  var payload []Message
-  err = json.Unmarshal(content, &payload)
-  payload = append(payload, newMessage)
-  fmt.Printf("%T", payload)
-
-  var sortedOut map[string]*Message
-  // for i := range payload {
-  //   fmt.Printf("Name is : %v\n", payload[i].Episode)
-  //   sortedOut = append(sortedOut, )
-  // }
-  
-  
-  printSorted(sortedOut)
-
-  
+	for i := beginning; i >= end; i-- {
+		for v := range sortedOut {
+			if i == int(payload[v].Episode) {
+				orderedPayload = append(orderedPayload, payload[v])
+			}
+		}
+	}
+	for i := range orderedPayload {
+		fmt.Printf("%v\n", orderedPayload[i])
+	}
 
 
 }
