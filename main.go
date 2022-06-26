@@ -1,12 +1,13 @@
 package main
 
 import (
-  "encoding/json"
+	"encoding/json"
+	"strconv"
+	"io/ioutil"
+	"log"
+	"os"
+	"sort"
   "fmt"
-  "io/ioutil"
-  "log"
-  "os"
-  "sort"
 )
 
 type Message struct {
@@ -18,24 +19,30 @@ type Message struct {
 
 
 func main() {
-  newMessage := Message{"SD-100-100-100", "Cool long title here", "Febarch", 581}
-  anotherMessage := Message{"SD-900-900-900", "Slightly Different Title", "Juntember", 582}
-  // b, err := json.Marshal(newMessage)
-  // if err != nil {
-  // 	fmt.Print(err)
-  // }
-  // fmt.Printf("%s\n", b)
+  // gather params from user
+ 
+  var newMessage Message 
+
+  newMessage.Name = os.Args[1]
+  newMessage.Title = os.Args[2]
+  newMessage.Month = os.Args[3]
+  strInt, err := strconv.Atoi(os.Args[4]) 
+  newMessage.Episode = int32(strInt) 
+
+  fmt.Printf("%v\n", newMessage)
+
+
 
   // Read messages.json
+  // Need to read from orderedMessages.json or overwrite messages.json
   content, err := ioutil.ReadFile("./messages.json")
   if err != nil {
     log.Fatal("Error when opening file: ", err)
   }
   var payload []Message
   err = json.Unmarshal(content, &payload)
+
   payload = append(payload, newMessage)
-  payload = append(payload, anotherMessage)
-  fmt.Printf("%T", payload)
 
   var sortedOut []int
 
