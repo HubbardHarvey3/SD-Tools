@@ -2,11 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	// "fmt"
 	"io/ioutil"
-	// "log"
 	"os"
-	// "sort"
 	"strconv"
 )
 
@@ -28,9 +25,7 @@ func main() {
 	strInt, _ := strconv.Atoi(os.Args[4])
 	newMessage.Episode = int32(strInt)
 
-	
-
-	payload := JsonToMessage(newMessage)
+	payload := JsonToMessage(newMessage, "./messages.json")
 
 	orderedPayload := SortJson(payload)
 

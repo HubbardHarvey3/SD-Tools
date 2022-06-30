@@ -2,17 +2,13 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
-	"sort"
 	"io/ioutil"
 	"log"
+	"sort"
 )
 
-func ReadJson() []byte {
-	fmt.Printf("Test/n")
-	// Read messages.json
-	// Need to read from orderedMessages.json or overwrite messages.json
-	content, err := ioutil.ReadFile("./messages.json")
+func ReadJson(filepath string) []byte {
+	content, err := ioutil.ReadFile(filepath)
 	if err != nil {
 		log.Fatal("Error when opening file: ", err)
 	}
@@ -20,10 +16,10 @@ func ReadJson() []byte {
 	return content
 }
 
-func JsonToMessage(m Message) []Message {
+func JsonToMessage(m Message, filepath string) []Message {
 	var payload []Message
 
-	content := ReadJson()
+	content := ReadJson(filepath)
 
 	err := json.Unmarshal(content, &payload)
 	if err != nil {
@@ -35,7 +31,7 @@ func JsonToMessage(m Message) []Message {
 	return payload
 }
 
-func SortJson(payload []Message) ([]Message) {
+func SortJson(payload []Message) []Message {
 	var sortedOut []int
 
 	for i := 0; i < len(payload); i++ {
