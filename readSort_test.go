@@ -9,6 +9,13 @@ import (
 )
 
 var filepath string = "./messages.json"
+var payload []Message
+var m = Message{
+	Episode: 100,
+	Month:   "June",
+	Title:   "Snazzy Title Here",
+	Name:    "SD-1-1-11",
+}
 
 func TestJsonRead(t *testing.T) {
 	content := ReadJson(filepath)
@@ -22,13 +29,6 @@ func TestJsonRead(t *testing.T) {
 	}
 }
 
-var payload []Message
-var m = Message{
-	Episode: 100,
-	Month:   "June",
-	Title:   "Snazzy Title Here",
-	Name:    "SD-1-1-11",
-}
 
 
 func TestJsonToMessage(t *testing.T) {
@@ -47,4 +47,22 @@ func TestJsonToMessage(t *testing.T) {
 		fmt.Println("Everything checked out for the test on JsonToMessage")
 	}
 
+}
+
+
+var SortPayload = []Message{
+	{Episode: 1, Name: "SD-1-1-1", Title:"Title here", Month:"June"},
+	{Episode: 15, Name: "SD-1-1-1", Title:"Title here", Month:"June"},
+	{Episode: 133, Name: "SD-1-1-1", Title:"Title here", Month:"June"},
+	{Episode: 12, Name: "SD-1-1-1", Title:"Title here", Month:"June"},
+}
+
+func TestSortJson(t *testing.T) {
+	testArr := SortJson(SortPayload)
+
+	if testArr[0].Episode != 133 {
+		t.Errorf("Expected to see the first element to be Episode:133, but got %d\n", testArr[0].Episode)
+	} else {
+		fmt.Println("Everything checked out for the test on SortJson")
+	}
 }
