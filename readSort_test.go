@@ -24,12 +24,10 @@ func TestJsonRead(t *testing.T) {
 
 	if reflect.TypeOf(content) != reflect.TypeOf(testVar) {
 		t.Errorf("Error: ReadJson returned type %T, instead of %T", content, testVar)
-	}  else {
+	} else {
 		fmt.Println("Everything checked out for the test on Jsonread")
 	}
 }
-
-
 
 func TestJsonToMessage(t *testing.T) {
 	content := ReadJson(filepath)
@@ -49,12 +47,11 @@ func TestJsonToMessage(t *testing.T) {
 
 }
 
-
 var SortPayload = []Message{
-	{Episode: 1, Name: "SD-1-1-1", Title:"Title here", Month:"June"},
-	{Episode: 15, Name: "SD-1-1-1", Title:"Title here", Month:"June"},
-	{Episode: 133, Name: "SD-1-1-1", Title:"Title here", Month:"June"},
-	{Episode: 12, Name: "SD-1-1-1", Title:"Title here", Month:"June"},
+	{Episode: 1, Name: "SD-1-1-1", Title: "Title here", Month: "June"},
+	{Episode: 15, Name: "SD-1-1-1", Title: "Title here", Month: "June"},
+	{Episode: 133, Name: "SD-1-1-1", Title: "Title here", Month: "June"},
+	{Episode: 12, Name: "SD-1-1-1", Title: "Title here", Month: "June"},
 }
 
 func TestSortJson(t *testing.T) {
