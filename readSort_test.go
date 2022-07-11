@@ -63,3 +63,15 @@ func TestSortJson(t *testing.T) {
 		fmt.Println("Everything checked out for the test on SortJson")
 	}
 }
+
+func TestCSVtoJSON(t *testing.T) {
+	var test []Message
+	testCSV := ReadCSV("./example.csv")
+	testMessageSlice := CSVtoJSON(testCSV)
+	if reflect.TypeOf(testMessageSlice) != reflect.TypeOf(test) {
+		t.Errorf("Expected %T, but got %T", test, testMessageSlice)
+	} else {
+		fmt.Println("Everything checked out for the test on ReadCSV and CSVtoJSON")
+	}
+
+}

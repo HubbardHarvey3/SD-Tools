@@ -5,41 +5,40 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
-	"strconv"
 )
 
 type Message struct {
 	Name    string
 	Title   string
 	Month   string
-	Episode int32
+	Episode int64
 }
 
 func main() {
 	// gather params from user
 
-	testSlice := ReadCsv("./example.csv")
-	PrintCsv(testSlice)
+	// if len(os.Args[1:]) != 1 {
+	// 	fmt.Println("No params provided")
+	// } else {
+	// newMessage.Name = os.Args[1]
+	// newMessage.Title = os.Args[2]
+	// newMessage.Month = os.Args[3]
+	// strInt, _ := strconv.Atoi(os.Args[4])
+	// newMessage.Episode = int64(strInt)
 
-	var newMessage Message
+	csvSlice := ReadCSV("./example.csv")
 
-	if len(os.Args[1:]) != 1 {
-		fmt.Println("No params provided")
+	newPayloads := CSVtoJSON(csvSlice)
+
+	originalPayload, err := JsonToMessage(newPayloads, "./messages.json")
+	if err != nil {
+		fmt.Println(err)
 	} else {
-		newMessage.Name = os.Args[1]
-		newMessage.Title = os.Args[2]
-		newMessage.Month = os.Args[3]
-		strInt, _ := strconv.Atoi(os.Args[4])
-		newMessage.Episode = int32(strInt)
-
-		payload := JsonToMessage(newMessage, "./messages.json")
-
-		orderedPayload := SortJson(payload)
+		orderedPayload := SortJson(originalPayload)
 
 		output, _ := json.Marshal(orderedPayload)
 
 		ioutil.WriteFile("messages.json", output, os.ModePerm)
-
 	}
 
 }
