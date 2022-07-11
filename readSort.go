@@ -113,7 +113,11 @@ func CSVtoJSON(strArr [][]string) []Message {
 		message.Month = strArr[i][3]
 		messages = append(messages, message)
 	}
-	fmt.Printf("Adding the following records: %v\n", messages)
+
+	fmt.Println("Adding the following records:")
+	for i := 0; i <= len(messages)-1; i++ {
+		fmt.Printf(" Filename: %v | Broadcast Title: %v | Month: %v | Episode: %v \n", messages[i].Name, messages[i].Title, messages[i].Month, messages[i].Episode)
+	}
 
 	proceed()
 
@@ -121,7 +125,7 @@ func CSVtoJSON(strArr [][]string) []Message {
 }
 
 func proceed() {
-	fmt.Println("Proceed with the update: Y/n")
+	fmt.Println("Proceed with the update: Y (Anything other than 'Y' will abort)")
 	var resp string
 	fmt.Scanln(&resp)
 

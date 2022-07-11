@@ -15,17 +15,6 @@ type Message struct {
 }
 
 func main() {
-	// gather params from user
-
-	// if len(os.Args[1:]) != 1 {
-	// 	fmt.Println("No params provided")
-	// } else {
-	// newMessage.Name = os.Args[1]
-	// newMessage.Title = os.Args[2]
-	// newMessage.Month = os.Args[3]
-	// strInt, _ := strconv.Atoi(os.Args[4])
-	// newMessage.Episode = int64(strInt)
-
 	csvSlice := ReadCSV("./example.csv")
 
 	newPayloads := CSVtoJSON(csvSlice)
