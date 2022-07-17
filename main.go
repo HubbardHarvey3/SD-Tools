@@ -8,10 +8,10 @@ import (
 )
 
 type Message struct {
-	Name    string
-	Title   string
-	Month   string
-	Episode int64
+	Name    string `json:"name"`
+	Title   string `json:"title"`
+	Month   string `json:"month"`
+	Episode int64  `json:"episode"`
 }
 
 func main() {
