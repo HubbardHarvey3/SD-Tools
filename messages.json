@@ -1,5 +1,1865 @@
 [
   {
+    "name": "SD-09-05-22",
+    "title": "Re-Air from 9-05-2022 Doctrine of Anthropology: Creation: In the Beginning -- Genesis 1:1",
+    "month": "September",
+    "episode": 1125
+  },
+  {
+    "name": "SD-09-02-22",
+    "title": "Re-Air from 9-02-2022 Doctrine of God: The Holy Spirit: Spiritual Gifts: Summary -- 1 Cor. 14:36-40",
+    "month": "September",
+    "episode": 1124
+  },
+  {
+    "name": "SD-09-01-22",
+    "title": "Re-Air from 9-01-2022 Doctrine of God: The Holy Spirit: Spiritual Gifts: Tongues and Prophecy -- 1 Cor. 14:1-35",
+    "month": "September",
+    "episode": 1123
+  },
+  {
+    "name": "SD-08-31-22",
+    "title": "Re-Air from 8-31-2022 Doctrine of God: The Holy Spirit: Spiritual Gifts: Gifts and The Bible -- 1 Cor. 13:8-13",
+    "month": "August",
+    "episode": 1122
+  },
+  {
+    "name": "SD-08-30-22",
+    "title": "Re-Air from 8-30-2022 Doctrine of God: The Holy Spirit: Spiritual Gifts: Gifts and Love -- 1 Cor. 13:1-8",
+    "month": "August",
+    "episode": 1121
+  },
+  {
+    "name": "SD-08-29-22",
+    "title": "Re-Air from 8-29-2022 Doctrine of God: The Holy Spirit: Spiritual Gifts: Types -- 1 Cor.12; Rom. 12; 1 Peter 4",
+    "month": "August",
+    "episode": 1120
+  },
+  {
+    "name": "SD-08-26-22",
+    "title": "Re-Air from 8-26-2022 Doctrine of God: The Holy Spirit: Gifting Ministry: Specific Gifts -- Rom. 12; 1 Cor. 12",
+    "month": "August",
+    "episode": 1119
+  },
+  {
+    "name": "SD-08-25-22",
+    "title": "Re-Air from 8-25-2022 Doctrine of God: The Holy Spirit: Gifting Ministry: Basics -- 1 Peter 4:10-11",
+    "month": "August",
+    "episode": 1118
+  },
+  {
+    "name": "SD-08-24-22",
+    "title": "Re-Air from 8-24-2022 Doctrine of God: The Holy Spirit: Gifting Ministry: Definition/Distinctions -- Ephesians 4:11-12",
+    "month": "August",
+    "episode": 1117
+  },
+  {
+    "name": "SD-08-23-22",
+    "title": "Re-Air from 8-23-2022 Doctrine of God: The Holy Spirit: Assuring Ministry -- Rom. 8:16; John 10:27-28; 1 John 5:11-13",
+    "month": "August",
+    "episode": 1116
+  },
+  {
+    "name": "SD-08-22-22",
+    "title": "Re-Air from 8-22-2022 Doctrine of God: The Holy Spirit: Guiding Ministry -- Galatians 5:16-25",
+    "month": "August",
+    "episode": 1115
+  },
+  {
+    "name": "SD-08-19-22",
+    "title": "Re-Air from 8-19-2022 Doctrine of God: The Holy Spirit: Filling Ministry -- Ephesians 5:18",
+    "month": "August",
+    "episode": 1114
+  },
+  {
+    "name": "SD-08-18-22",
+    "title": "Re-Air from 8-18-2022 Doctrine of God: The Holy Spirit: Teaching/Anointing Ministry -- John 16:13-15; 1 John 2:20, 27",
+    "month": "August",
+    "episode": 1113
+  },
+  {
+    "name": "SD-08-17-22",
+    "title": "Re-Air from 8-17-2022 Doctrine of God: The Holy Spirit: Praying Ministry -- Romans 8:26-27",
+    "month": "August",
+    "episode": 1112
+  },
+  {
+    "name": "SD-08-16-22",
+    "title": "Re-Air from 8-16-2022 Doctrine of God: The Holy Spirit: Sealing -- Ephesians 4:30; 1:13-14",
+    "month": "August",
+    "episode": 1111
+  },
+  {
+    "name": "SD-08-15-22",
+    "title": "Re-Air from 8-15-2022 Doctrine of God: The Holy Spirit: Indwelling -- Romans 8:9; 1 Cor. 6:19",
+    "month": "August",
+    "episode": 1110
+  },
+  {
+    "name": "SD-08-12-22",
+    "title": "Re-Air from 8-12-2022 Doctrine of God: The Holy Spirit: Baptizing -- 1 Cor. 12:13; Rom. 6:3-4",
+    "month": "August",
+    "episode": 1109
+  },
+  {
+    "name": "SD-08-11-22",
+    "title": "Re-Air from 8-11-2022 Doctrine of God: The Holy Spirit: Regenerating (Born Again) -- John 3:1-7; Titus 3:5",
+    "month": "August",
+    "episode": 1108
+  },
+  {
+    "name": "SD-08-10-22",
+    "title": "Re-Air from 8-10-2022 Doctrine of God: The Holy Spirit: Convicting -- John 16:7-11",
+    "month": "August",
+    "episode": 1107
+  },
+  {
+    "name": "SD-08-09-22",
+    "title": "Re-Air from 8-09-2022 Doctrine of God: The Holy Spirit: Jesus' Definitive Statement -- John 14:16-17",
+    "month": "August",
+    "episode": 1106
+  },
+  {
+    "name": "SD-08-08-22",
+    "title": "Re-Air from 8-08-2022 Doctrine of God: The Holy Spirit: Old Testament References -- Genesis 1:2",
+    "month": "August",
+    "episode": 1105
+  },
+  {
+    "name": "SD-08-05-22",
+    "title": "Re-Air from 8-05-2022 Doctrine of God: The Son: Jesus at the Sea of Galilee -- John 21",
+    "month": "August",
+    "episode": 1104
+  },
+  {
+    "name": "SD-08-04-22",
+    "title": "Re-Air from 8-04-2022 Doctrine of God: The Son: Jesus' Upper Room Appearances -- John 20:19-29",
+    "month": "August",
+    "episode": 1103
+  },
+  {
+    "name": "SD-08-03-22",
+    "title": "Re-Air from 8-03-2022 Doctrine of God: The Son: Jesus and the Order of Events: Scofield Bible notes",
+    "month": "August",
+    "episode": 1102
+  },
+  {
+    "name": "SD-08-02-22",
+    "title": "Re-Air from 8-02-2022 Doctrine of God: The Son: Jesus' Resurrection -- John 19:38-20:18",
+    "month": "August",
+    "episode": 1101
+  },
+  {
+    "name": "SD-08-01-22",
+    "title": "Re-Air from 8-01-2022 Doctrine of God: The Son: Jesus' Crucifixion -- John 19:17-37",
+    "month": "August",
+    "episode": 1100
+  },
+  {
+    "name": "SD-07-29-22",
+    "title": "Re-Air from 7-29-2022 Doctrine of God: The Son: Jesus' Trials -- John 18:15-19:16",
+    "month": "July",
+    "episode": 1099
+  },
+  {
+    "name": "SD-07-28-22",
+    "title": "Re-Air from 7-28-2022 Doctrine of God: The Son: Jesus and the Arrest -- John 18:1-14",
+    "month": "July",
+    "episode": 1098
+  },
+  {
+    "name": "SD-07-27-22",
+    "title": "Re-Air from 7-27-2022 Doctrine of God: The Son: Jesus and the Unity -- John 17:18-26",
+    "month": "July",
+    "episode": 1097
+  },
+  {
+    "name": "SD-07-26-22",
+    "title": "Re-Air from 7-26-2022 Doctrine of God: The Son: Jesus: Sanctification and Truth -- John 17:13-17",
+    "month": "July",
+    "episode": 1096
+  },
+  {
+    "name": "SD-07-25-22",
+    "title": "Re-Air from 7-25-2022 Doctrine of God: The Son: Jesus Prays for His Own -- John 17:6-12",
+    "month": "July",
+    "episode": 1095
+  },
+  {
+    "name": "SD-07-22-22",
+    "title": "Re-Air from 7-22-2022 Doctrine of God: The Son: Jesus and the Glory -- John 17:1-5",
+    "month": "July",
+    "episode": 1094
+  },
+  {
+    "name": "SD-07-21-22",
+    "title": "Re-Air from 7-21-2022 Doctrine of God: The Son: Jesus and the World -- John 15:18-6:3",
+    "month": "July",
+    "episode": 1093
+  },
+  {
+    "name": "SD-07-20-22",
+    "title": "Re-Air from 7-20-2022 Doctrine of God: The Son: Jesus and His Commandments -- John 15:9-17",
+    "month": "July",
+    "episode": 1092
+  },
+  {
+    "name": "SD-07-19-22",
+    "title": "Re-Air from 7-19-2022 Doctrine of God: The Son: Jesus and the Branches -- John 15:1-8",
+    "month": "July",
+    "episode": 1091
+  },
+  {
+    "name": "SD-07-18-22",
+    "title": "Re-Air from 7-18-2022 Doctrine of God: The Son: Jesus and Greater Works -- John 14:12-31",
+    "month": "July",
+    "episode": 1090
+  },
+  {
+    "name": "SD-07-15-22",
+    "title": "Re-Air from 7-15-2022 Doctrine of God: The Son: Jesus and the Way -- John 14:6",
+    "month": "July",
+    "episode": 1089
+  },
+  {
+    "name": "SD-07-14-22",
+    "title": "Re-Air from 7-14-2022 Doctrine of God: The Son: Jesus and Your Mansion -- John 14:1-3",
+    "month": "July",
+    "episode": 1088
+  },
+  {
+    "name": "SD-07-13-22",
+    "title": "Re-Air from 7-13-2022 Doctrine of God: The Son: Jesus' New Commandment -- John 13:34-35",
+    "month": "July",
+    "episode": 1087
+  },
+  {
+    "name": "SD-07-12-22",
+    "title": "Re-Air from 7-12-2022 Doctrine of God: The Son: Jesus and Judas -- John 13:18-33",
+    "month": "July",
+    "episode": 1086
+  },
+  {
+    "name": "SD-07-11-22",
+    "title": "Re-Air from 7-11-2022 Doctrine of God: The Son: Jesus and Foot Washing -- John 13:1-17",
+    "month": "July",
+    "episode": 1085
+  },
+  {
+    "name": "SD-07-08-22",
+    "title": "Re-Air from 7-08-2022 Doctrine of God: The Son: Jesus and Much Fruit -- John 12:12-50",
+    "month": "July",
+    "episode": 1084
+  },
+  {
+    "name": "SD-07-07-22",
+    "title": "Re-Air from 7-07-2022 Doctrine of God: The Son: Jesus and the Passover Plot -- John 11:46-12:11",
+    "month": "July",
+    "episode": 1083
+  },
+  {
+    "name": "SD-07-06-22",
+    "title": "Re-Air from 7-06-2022 Doctrine of God: The Son: Jesus and Resurrection -- John 11:23-45",
+    "month": "July",
+    "episode": 1082
+  },
+  {
+    "name": "SD-07-05-22",
+    "title": "Re-Air from 7-05-2022 Doctrine of God: The Son: Jesus and Death -- John 11:1-22",
+    "month": "July",
+    "episode": 1081
+  },
+  {
+    "name": "SD-07-04-22",
+    "title": "Re-Air from 7-04-2022 Doctrine of God: The Son: Jesus and the Father -- John 10:25-39",
+    "month": "July",
+    "episode": 1080
+  },
+  {
+    "name": "SD-07-01-22",
+    "title": "Re-Air from 7-01-2022 Doctrine of God: The Son: Jesus and the Good Shepherd -- John 10:11-24",
+    "month": "July",
+    "episode": 1079
+  },
+  {
+    "name": "SD-06-30-22",
+    "title": "Re-Air from 6-30-2022 Doctrine of God: The Son: Jesus and the Door of Salvation -- John 10:1-10",
+    "month": "June",
+    "episode": 1078
+  },
+  {
+    "name": "SD-06-29-22",
+    "title": "Re-Air from 6-29-2022 Doctrine of God: The Son: Jesus and the Progression of Faith -- John 9:8-41",
+    "month": "June",
+    "episode": 1077
+  },
+  {
+    "name": "SD-06-28-22",
+    "title": "Re-Air from 6-28-2022 Doctrine of God: The Son: Jesus and the Man Born Blind -- John 9:1-25",
+    "month": "June",
+    "episode": 1076
+  },
+  {
+    "name": "SD-06-27-22",
+    "title": "Re-Air from 6-27-2022 Doctrine of God: The Son: Jesus and the Devil -- John 8:44",
+    "month": "June",
+    "episode": 1075
+  },
+  {
+    "name": "SD-06-24-22",
+    "title": "Re-Air from 6-24-2022 Doctrine of God: The Son: Jesus and the Adulteress -- John 8:1-11",
+    "month": "June",
+    "episode": 1074
+  },
+  {
+    "name": "SD-06-23-22",
+    "title": "Re-Air from 6-23-2022 Doctrine of God: The Son: Jesus, the Spirit and the Thirsty -- John 7: 18-53",
+    "month": "June",
+    "episode": 1073
+  },
+  {
+    "name": "SD-06-22-22",
+    "title": "Re-Air from 6-22-2022 Doctrine of God: The Son: Willing and Teaching -- John 7:17",
+    "month": "June",
+    "episode": 1072
+  },
+  {
+    "name": "SD-06-21-22",
+    "title": "Re-Air from 6-21-2022 Doctrine of God: The Son: Jesus Walks on Water; Bread of Life -- John 6:15-71",
+    "month": "June",
+    "episode": 1071
+  },
+  {
+    "name": "SD-06-20-22",
+    "title": "Re-Air from 6-20-2022 Doctrine of God: The Son: Jesus Feeds the 5000 -- John 6:1-15",
+    "month": "June",
+    "episode": 1070
+  },
+  {
+    "name": "SD-06-17-22",
+    "title": "Re-Air from 6-17-2022 Doctrine of God: The Son: Jesus and Resurrection Life -- John 5:24",
+    "month": "June",
+    "episode": 1069
+  },
+  {
+    "name": "SD-06-16-22",
+    "title": "Re-Air from 6-16-2022 Doctrine of God: The Son: Jesus and the Pool of Bethesda -- John 5:1-17",
+    "month": "June",
+    "episode": 1068
+  },
+  {
+    "name": "SD-06-15-22",
+    "title": "Re-Air from 6-15-2022 Doctrine of God: The Son: Jesus and the 2nd Sign -- John 4:46-54",
+    "month": "June",
+    "episode": 1067
+  },
+  {
+    "name": "SD-06-14-22",
+    "title": "Re-Air from 6-14-2022 Doctrine of God: The Son: Jesus and the Despised -- John 4:39-45",
+    "month": "June",
+    "episode": 1066
+  },
+  {
+    "name": "SD-06-13-22",
+    "title": "Re-Air from 6-13-2022 Doctrine of God: The Son: Jesus and the Harvest -- John 4:27-38",
+    "month": "June",
+    "episode": 1065
+  },
+  {
+    "name": "SD-06-10-22",
+    "title": "Re-Air from 6-10-2022 Doctrine of God: The Son: Prophet and Christ -- John 4:11-26",
+    "month": "June",
+    "episode": 1064
+  },
+  {
+    "name": "SD-06-09-22",
+    "title": "Re-Air from 6-9-2022 Doctrine of God: The Son: The Water of Life -- John 4:1-11",
+    "month": "June",
+    "episode": 1063
+  },
+  {
+    "name": "SD-06-08-22",
+    "title": "Re-Air from 6-8-2022 Doctrine of God: The Son: The Bridegroom -- John 3:22-36",
+    "month": "June",
+    "episode": 1062
+  },
+  {
+    "name": "SD-06-07-22",
+    "title": "Re-Air from 6-7-2022 Doctrine of God: The Son: The Savior -- John 3:17-21",
+    "month": "June",
+    "episode": 1061
+  },
+  {
+    "name": "SD-06-06-22",
+    "title": "Re-Air from 6-6-2022 Doctrine of God: The Son: The Gospel -- John 3:16",
+    "month": "June",
+    "episode": 1060
+  },
+  {
+    "name": "SD-06-03-22",
+    "title": "Re-Air from 6-3-2022 Doctrine of God: The Son: Jesus and the New Birth -- John 3:1-15",
+    "month": "June",
+    "episode": 1059
+  },
+  {
+    "name": "SD-06-02-22",
+    "title": "Re-Air from 6-2-2022 Doctrine of God: The Son: Jesus' Temple Cleansing -- John 2:14-25",
+    "month": "June",
+    "episode": 1058
+  },
+  {
+    "name": "SD-06-01-22",
+    "title": "Re-Air from 6-1-2022 Doctrine of God: The Son: Jesus' First Sign -- John 2:1-13",
+    "month": "June",
+    "episode": 1057
+  },
+  {
+    "name": "SD-05-31-22",
+    "title": "Re-Air from 5-31-2022 Doctrine of God: The Son: Jesus the Evangelizer -- John 1:35-51",
+    "month": "May",
+    "episode": 1056
+  },
+  {
+    "name": "SD-05-30-22",
+    "title": "Re-Air from 5-30-2022 Doctrine of God: The Son: John the Herald -- John 1:19-34",
+    "month": "May",
+    "episode": 1055
+  },
+  {
+    "name": "SD-05-27-22",
+    "title": "Re-Air from 5-27-2022 Doctrine of God: The Son: The Expositor of God -- John 1:18",
+    "month": "May",
+    "episode": 1054
+  },
+  {
+    "name": "SD-05-26-22",
+    "title": "Re-Air from 5-26-2022 Doctrine of God: The Son: The Grace of God -- John 1:15-17",
+    "month": "May",
+    "episode": 1053
+  },
+  {
+    "name": "SD-05-25-22",
+    "title": "Re-Air from 5-25-2022 Doctrine of God: The Son: Only Begotten Son -- John 1:14",
+    "month": "May",
+    "episode": 1052
+  },
+  {
+    "name": "SD-05-24-22",
+    "title": "Re-Air from 5-24-2022 Doctrine of God: The Son: The Witness: John the Baptizer -- John 1:6-13",
+    "month": "May",
+    "episode": 1051
+  },
+  {
+    "name": "SD-05-23-22",
+    "title": "Re-Air from 5-23-2022 Doctrine of God: The Son: The Word: Preexistence -- John 1:1-5",
+    "month": "May",
+    "episode": 1050
+  },
+  {
+    "name": "SD-05-20-22",
+    "title": "Re-Air from 5-20-2022 Doctrine of God: Trinity Truth: History of Trinity Teaching -- Matthew 28:18",
+    "month": "May",
+    "episode": 1049
+  },
+  {
+    "name": "SD-05-19-22",
+    "title": "Re-Air from 5-19-2022 Doctrine of God: Trinity Truth: Illustrations of the Trinity -- Ephesians 2:18",
+    "month": "May",
+    "episode": 1048
+  },
+  {
+    "name": "SD-05-18-22",
+    "title": "Re-Air from 5-18-2022 Doctrine of God: Trinity Truth: New Testament Evidence -- Matthew 28:19",
+    "month": "May",
+    "episode": 1047
+  },
+  {
+    "name": "SD-05-17-22",
+    "title": "Re-Air from 5-17-2022 Doctrine of God: Trinity Truth: Old Testament Persons -- Proverbs 8:12-31",
+    "month": "May",
+    "episode": 1046
+  },
+  {
+    "name": "SD-05-16-22",
+    "title": "Re-Air from 5-16-2022 Doctrine of God: Trinity Truth: Old Testament Intimations -- Genesis 1:26",
+    "month": "May",
+    "episode": 1045
+  },
+  {
+    "name": "SD-05-13-22",
+    "title": "Re-Air from 5-13-2022 Doctrine of God: names of God: Father: Father of Believers -- Ephesians 4:6",
+    "month": "May",
+    "episode": 1044
+  },
+  {
+    "name": "SD-05-12-22",
+    "title": "Re-Air from 5-12-2022 Doctrine of God: names of God: Father: Father of Prayer -- Luke 11:1-13",
+    "month": "May",
+    "episode": 1043
+  },
+  {
+    "name": "SD-05-10-22",
+    "title": "Re-Air from 5-10-2022 Doctrine of God: names of God: Father of Our Lord Jesus Christ -- Ephesians 1:1-7",
+    "month": "May",
+    "episode": 1042
+  },
+  {
+    "name": "SD-05-09-22",
+    "title": "Re-Air from 5-9-2022 Doctrine of God: names of God: Father in the Old Testament -- Psalm 23",
+    "month": "May",
+    "episode": 1041
+  },
+  {
+    "name": "SD-05-06-22",
+    "title": "Re-Air from 5-6-2022 Doctrine of God: names of God: Master -- 2 Peter 2:1",
+    "month": "May",
+    "episode": 1040
+  },
+  {
+    "name": "SD-05-05-22",
+    "title": "Re-Air from 5-5-2022 Doctrine of God: names of God: Christ as Lord -- Romans 10:9",
+    "month": "May",
+    "episode": 1039
+  },
+  {
+    "name": "SD-05-04-22",
+    "title": "Re-Air from 5-4-2022 Doctrine of God: names of God: Adonai and Kurios -- Isaiah 6:8-11",
+    "month": "May",
+    "episode": 1038
+  },
+  {
+    "name": "SD-05-03-22",
+    "title": "Re-Air from 5-3-2022 Doctrine of God: names of God: Theos and Christ -- John 1:18",
+    "month": "May",
+    "episode": 1037
+  },
+  {
+    "name": "SD-05-02-22",
+    "title": "Re-Air from 5-2-2022 Doctrine of God: names of God: Theos cf Elohim -- John 1:1",
+    "month": "May",
+    "episode": 1036
+  },
+  {
+    "name": "SD-04-29-22",
+    "title": "Re-Air from 4-29-2022 Doctrine of God: names of God: Compounds of Yahweh -- Psalm 23:1",
+    "month": "April",
+    "episode": 1035
+  },
+  {
+    "name": "SD-04-28-22",
+    "title": "Re-Air from 4-28-2022 Doctrine of God: names of God: Sacredness of Yahweh -- Exodus 3:14",
+    "month": "April",
+    "episode": 1034
+  },
+  {
+    "name": "SD-04-27-22",
+    "title": "Re-Air from 4-27-2022 Doctrine of God: names of God: Compounds of Elohim -- Genesis 17:1",
+    "month": "April",
+    "episode": 1033
+  },
+  {
+    "name": "SD-04-26-22",
+    "title": "Re-Air from 4-26-2022 Doctrine of God: names of God: name of the Lord/Elohim -- Exodus 20:7",
+    "month": "April",
+    "episode": 1032
+  },
+  {
+    "name": "SD-04-25-22",
+    "title": "Re-Air from 4-25-2022 Doctrine of God: Perfections: Truth/Unity -- John 14:6, 1 Timothy 2:5",
+    "month": "April",
+    "episode": 1031
+  },
+  {
+    "name": "SD-04-22-22",
+    "title": "Re-Air from 4-22-2022 Doctrine of God: Perfections: Sovereignty -- Proverbs 16",
+    "month": "April",
+    "episode": 1030
+  },
+  {
+    "name": "SD-04-21-22",
+    "title": "Re-Air from 4-21-2022 Doctrine of God: Perfections: Righteousness/Simplicity -- Psalm 11:7, John 4:24",
+    "month": "April",
+    "episode": 1029
+  },
+  {
+    "name": "SD-04-20-22",
+    "title": "Re-Air from 4-20-2022 Doctrine of God: Perfections: Omniscience -- Acts 15:18",
+    "month": "April",
+    "episode": 1028
+  },
+  {
+    "name": "SD-04-19-22",
+    "title": "Re-Air from 4-19-2022 Doctrine of God: Perfections: Omnipresence -- Psalm 139:7-12",
+    "month": "April",
+    "episode": 1027
+  },
+  {
+    "name": "SD-04-18-22",
+    "title": "Re-Air from 4-18-2022 Doctrine of God: Perfections: Omnipotence -- Genesis 17:1",
+    "month": "April",
+    "episode": 1026
+  },
+  {
+    "name": "SD-04-15-22",
+    "title": "Re-Air from 4-15-2022 Doctrine of God: Perfections: Infinity/Love -- 1 Kings 8:27; 1 John 4:8",
+    "month": "April",
+    "episode": 1025
+  },
+  {
+    "name": "SD-04-14-22",
+    "title": "Re-Air from 4-14-2022 Doctrine of God: Perfections: Immutability -- Malachi 3:6; James 1:17",
+    "month": "April",
+    "episode": 1024
+  },
+  {
+    "name": "SD-04-13-22",
+    "title": "Re-Air from 4-13-2022 Doctrine of God: Perfections: Freedom and Holiness -- Isaiah 40:13-14, 1 Peter 1:154-13-2022 Doctrine of God: Perfections: Freedom and Holiness -- Isaiah 40:13-14, 1 Peter 1:15",
+    "month": "April",
+    "episode": 1023
+  },
+  {
+    "name": "SD-04-12-22",
+    "title": "Re-Air from 4-12-2022 Doctrine of God: Perfections: Eternity -- Psalm 90:2",
+    "month": "April",
+    "episode": 1022
+  },
+  {
+    "name": "SD-04-11-22",
+    "title": "Re-Air from 4-11-2022 Doctrine of God: Perfections: Definitions and Categories",
+    "month": "April",
+    "episode": 1021
+  },
+  {
+    "name": "SD-04-08-22",
+    "title": "Re-Air from 4-8-2022 Doctrine of Revelation: Written Revelation: O. T. Revelation: Thus Saith the Lord -- 2 Samuel 23/Jeremiah 6",
+    "month": "April",
+    "episode": 1020
+  },
+  {
+    "name": "SD-04-07-22",
+    "title": "Re-Air from 4-7-2022 Doctrine of Revelation: Written Revelation: O. T. Revelation: Evangelistic Deacon -- Acts 8:34-40",
+    "month": "April",
+    "episode": 1019
+  },
+  {
+    "name": "SD-04-06-22",
+    "title": "Re-Air from 4-6-2022 Doctrine of Revelation: Written Revelation: O. T. Revelation: Obedient Deacon -- Acts 8:1-34",
+    "month": "April",
+    "episode": 1018
+  },
+  {
+    "name": "SD-04-05-22",
+    "title": "Re-Air from 4-5-2022 Doctrine of Revelation: Written Revelation: O. T. Revelation: The Pentecostal Proof -- Acts 2:25-36",
+    "month": "April",
+    "episode": 1017
+  },
+  {
+    "name": "SD-04-04-22",
+    "title": "Re-Air from 4-4-2022 Doctrine of Revelation: Written Revelation: O.T. Revelation: Pentecostal Testimony -- Acts 2:1-24",
+    "month": "April",
+    "episode": 1016
+  },
+  {
+    "name": "SD-04-01-22",
+    "title": "Re-Air from 4-1-2022 Doctrine of Revelation: Written Revelation: Inspired Singulars -- Galatians 3:16",
+    "month": "April",
+    "episode": 1015
+  },
+  {
+    "name": "SD-03-31-22",
+    "title": "Re-Air from 3-31-2022 Doctrine of Revelation: Written Revelation: Inspired Letters -- Matthew 5:17-18",
+    "month": "March",
+    "episode": 1014
+  },
+  {
+    "name": "SD-03-30-22",
+    "title": "Re-Air from 3-30-2022 Doctrine of Revelation: Written Revelation: A Living Word: -- Hebrew 4:12",
+    "month": "March",
+    "episode": 1013
+  },
+  {
+    "name": "SD-03-29-22",
+    "title": "Re-Air from 3-29-2022 Doctrine of Revelation: Written Revelation: Study the Word -- 2 Timothy 2:15",
+    "month": "March",
+    "episode": 1012
+  },
+  {
+    "name": "SD-03-28-22",
+    "title": "Re-Air from 3-28-2022 Doctrine of Revelation: Written Revelation: Preach the Word -- 2 Timothy 4:1-5",
+    "month": "March",
+    "episode": 1011
+  },
+  {
+    "name": "SD-03-25-22",
+    "title": "Re-Air from 3-25-2022 Doctrine of Revelation: Written Revelation: Profitability -- 2 Timothy 3:16-17",
+    "month": "March",
+    "episode": 1010
+  },
+  {
+    "name": "SD-03-24-22",
+    "title": "Re-Air from 3-24-2022 Doctrine of Revelation: Written Revelation: Inspiration -- 2 Timothy 3:16",
+    "month": "March",
+    "episode": 1009
+  },
+  {
+    "name": "SD-03-23-22",
+    "title": "Re-Air from 3-23-2022 Doctrine of Revelation: Written Revelation: Holy Scriptures -- 2 Timothy 3:14-15",
+    "month": "March",
+    "episode": 1008
+  },
+  {
+    "name": "SD-03-22-22",
+    "title": "Re-Air from 3-22-2022 Doctrine of Revelation: Natural Revelation: No Fear of God -- Romans 3:13-18",
+    "month": "March",
+    "episode": 1007
+  },
+  {
+    "name": "SD-03-21-22",
+    "title": "Re-Air from 3-21-2022 Doctrine of Revelation: Natural Revelation: All Under Sin -- Romans 3:9-12",
+    "month": "March",
+    "episode": 1006
+  },
+  {
+    "name": "SD-03-17-22",
+    "title": "Re-Air from 3-17-2022 Doctrine of Revelation: Natural Revelation: The Situation of the Jews -- Romans 2:17-29",
+    "month": "March",
+    "episode": 1005
+  },
+  {
+    "name": "SD-03-16-22",
+    "title": "Re-Air from 3-16-2022 Doctrine of Revelation: Natural Revelation: The Law in the Heart -- Romans 2:7-16",
+    "month": "March",
+    "episode": 1004
+  },
+  {
+    "name": "SD-03-15-22",
+    "title": "Re-Air from 3-15-2022 Doctrine of Revelation: Natural Revelation: Condemning Others -- Romans 2:1-6",
+    "month": "March",
+    "episode": 1003
+  },
+  {
+    "name": "SD-03-14-22",
+    "title": "Re-Air from 3-14-2022 Doctrine of Revelation: Natural Revelation: Given Over -- Romans 1:26-32",
+    "month": "March",
+    "episode": 1002
+  },
+  {
+    "name": "SD-03-11-22",
+    "title": "Re-Air from 3-11-2022 Doctrine of Revelation: Natural Revelation: Devolution -- Romans 1:21-25",
+    "month": "March",
+    "episode": 1001
+  },
+  {
+    "name": "SD-03-10-22",
+    "title": "Re-Air from 3-10-2022 Doctrine of Revelation: Natural Revelation -- Romans 1:18-20",
+    "month": "March",
+    "episode": 1000
+  },
+  {
+    "name": "SD-03-09-22",
+    "title": "Re-Air from 3-9-2022 Things to Come: Revelation: Things Hereafter: Warning -- Revelation 22:18-21",
+    "month": "March",
+    "episode": 999
+  },
+  {
+    "name": "SD-03-08-22",
+    "title": "Re-Air from 3-8-2022 Things to Come: Revelation: Things Hereafter: Invitation -- Revelation 22:14-17",
+    "month": "March",
+    "episode": 998
+  },
+  {
+    "name": "SD-03-07-22",
+    "title": "Re-Air from 3-7-2022 Things to Come: Revelation: Things Hereafter: The Unsealed Book -- Revelation 22:10-13",
+    "month": "March",
+    "episode": 997
+  },
+  {
+    "name": "SD-03-04-22",
+    "title": "Re-Air from 3-4-2022 Things to Come: Revelation: Things Hereafter: The Words and The Worship -- Revelation 22:6-9",
+    "month": "March",
+    "episode": 996
+  },
+  {
+    "name": "SD-03-03-22",
+    "title": "Re-Air from 3-3-2022 Things to Come: Revelation: Things Hereafter: New Jerusalem: The River and the Reign -- Revelation 22:1-5",
+    "month": "March",
+    "episode": 995
+  },
+  {
+    "name": "SD-03-02-22",
+    "title": "Re-Air from 3-2-2022 Things to Come: Revelation: Things Hereafter: New Jerusalem: Spiritual Significance -- Revelation 21:22-27",
+    "month": "March",
+    "episode": 994
+  },
+  {
+    "name": "SD-03-02-22",
+    "title": "Re-Air from 3-1-2022 Things to Come: Revelation: Things Hereafter: New Jerusalem: Physical Description -- Revelation 21:11-21",
+    "month": "March",
+    "episode": 993
+  },
+  {
+    "name": "SD-02-28-22",
+    "title": "Re-Air from 2-28-2022 Things to Come: Revelation: Things Hereafter: New Jerusalem: Identity -- Revelation 21:9-11",
+    "month": "February",
+    "episode": 992
+  },
+  {
+    "name": "SD-02-25-22",
+    "title": "Re-Air from 2-25-2022 Things to Come: Revelation: Things Hereafter: The Completed Program -- Revelation 21:6-8",
+    "month": "February",
+    "episode": 991
+  },
+  {
+    "name": "SD-02-24-22",
+    "title": "Re-Air from 2-24-2022 Things to Come: Revelation: Things Hereafter: The Completed Program -- Revelation 21:6-8",
+    "month": "February",
+    "episode": 990
+  },
+  {
+    "name": "SD-02-23-22",
+    "title": "Re-Air from 2-23-2022 Things to Come: Revelation: Things Hereafter: The New Creation -- Revelation 21:1-5",
+    "month": "February",
+    "episode": 989
+  },
+  {
+    "name": "SD-02-22-22",
+    "title": "Re-Air from 2-22-2022 Things to Come: Revelation: Things Hereafter: The Second Death -- Revelation 20:11-15",
+    "month": "February",
+    "episode": 988
+  },
+  {
+    "name": "SD-02-21-22",
+    "title": "Re-Air from 2-21-2022 Things to Come: Revelation: Things Hereafter: The Final Rebellion -- Revelation 20:7-10",
+    "month": "February",
+    "episode": 987
+  },
+  {
+    "name": "SD-02-18-22",
+    "title": "Re-Air from 2-18-2022 Things to Come: Revelation: Things Hereafter: The Millennial Kingdom -- Revelation 20:1-6",
+    "month": "February",
+    "episode": 986
+  },
+  {
+    "name": "SD-02-17-22",
+    "title": "Re-Air from 2-17-2022 Things to Come: Revelation: Things Hereafter: The Second Advent -- Revelation 19:11-21",
+    "month": "February",
+    "episode": 985
+  },
+  {
+    "name": "SD-02-16-22",
+    "title": "Re-Air from 2-16-2022 Things to Come: Revelation: Things Hereafter: The Marriage of the Lamb -- Revelation 19:1-10",
+    "month": "February",
+    "episode": 984
+  },
+  {
+    "name": "SD-02-15-22",
+    "title": "Re-Air from 2-15-2022 Things to Come: Revelation: Things Hereafter: The Fall of Babylon, Destruction -- Revelation 17:15-18:24",
+    "month": "February",
+    "episode": 983
+  },
+  {
+    "name": "SD-02-14-22",
+    "title": "Re-Air from 2-14-2022 Things to Come: Revelation: Things Hereafter: The Great Harlot, Identity -- Revelation 17:1-14",
+    "month": "February",
+    "episode": 982
+  },
+  {
+    "name": "SD-02-11-22",
+    "title": "Re-Air from 2-11-2022 Things to Come: Revelation: Things Here After: The Seven Bowls -- Revelation 15-16",
+    "month": "February",
+    "episode": 981
+  },
+  {
+    "name": "SD-02-10-22",
+    "title": "Re-Air from 2-10-2022 Things to Come: Revelation: Things Hereafter: The 144,000: -- Revelation 14",
+    "month": "February",
+    "episode": 980
+  },
+  {
+    "name": "SD-02-09-22",
+    "title": "Re-Air from 2-9-2022 Things to Come: Revelation:Things Hereafter: The Earth Beast -- Revelation 13:11-18",
+    "month": "February",
+    "episode": 979
+  },
+  {
+    "name": "SD-02-08-22",
+    "title": "Re-Air from 2-8-2022 Things to Come: Revelation: Things Hereafter: The Sea Beast -- Revelation 12:15-13:10",
+    "month": "February",
+    "episode": 978
+  },
+  {
+    "name": "SD-02-07-22",
+    "title": "Re-Air from 2-7-2022 Things to Come: Revelation: Things Hereafter: The Great Sign -- Revelation 12:1-14",
+    "month": "February",
+    "episode": 977
+  },
+  {
+    "name": "SD-02-04-22",
+    "title": "Re-Air from 2-4-2022 Things to Come: Revelation: Things Hereafter: The Seventh Trumpet -- Revelation 11:15-19",
+    "month": "February",
+    "episode": 976
+  },
+  {
+    "name": "SD-02-03-22",
+    "title": "Re-Air from 2-3-2022 Things to Come: Revelation: Things Hereafter: The Two Witnesses -- Revelation 11:1-14",
+    "month": "January",
+    "episode": 975
+  },
+  {
+    "name": "SD-02-02-22",
+    "title": "Re-Air from 2-2-2022 Things to Come: Revelation: Things Hereafter: The Angel and the Book -- Revelation 10",
+    "month": "January",
+    "episode": 974
+  },
+  {
+    "name": "SD-02-01-22",
+    "title": "Re-Air from 2-1-2022 Sound Doctrine: Things to Come: Revelation: Things Hereafter: 2nd Woe: Armies from the East -- Revelation 9:13-21",
+    "month": "January",
+    "episode": 973
+  },
+  {
+    "name": "SD-01-31-22",
+    "title": "Re-Air from 1-31-2022 Sound Doctrine: Things to Come: Revelation: Things Hereafter: The First Woe: Demonic Locusts -- Revelation 9:1-12",
+    "month": "January",
+    "episode": 972
+  },
+  {
+    "name": "SD-01-28-22",
+    "title": "Re-Air from 1-28-2022 Things to Come: Revelation: Things Hereafter: Seventh Seal: Censer and Trumpets -- Revelation 8",
+    "month": "January",
+    "episode": 971
+  },
+  {
+    "name": "SD-01-27-22",
+    "title": "Re-Air from 1-27-2022 Things to Come: Revelation: Things Hereafter: 144,000 Jews and Multitude Gentiles -- Revelation 7",
+    "month": "January",
+    "episode": 970
+  },
+  {
+    "name": "SD-01-26-22",
+    "title": "Re-Air from 1-26-2022 Things to Come: Revelation: Things Hereafter: Martyrs and Terror -- Revelation 6: 9-17",
+    "month": "January",
+    "episode": 969
+  },
+  {
+    "name": "SD-01-25-22",
+    "title": "Re-Air from 1-25-2022 Things to Come: Revelation: Things Hereafter: The Four Horsemen -- Revelation 6:1-8",
+    "month": "January",
+    "episode": 968
+  },
+  {
+    "name": "SD-01-24-22",
+    "title": "Re-Air from 1-24-2022 Things to Come: Revelation: Things Hereafter: The Pattern/Numbers -- Revelation 6:1-2",
+    "month": "January",
+    "episode": 967
+  },
+  {
+    "name": "SD-01-21-22",
+    "title": "Re-Air from 1-21-2022 Things to Come: Revelation: Things Hereafter: The Lion and the Lamb -- Revelation 5",
+    "month": "January",
+    "episode": 966
+  },
+  {
+    "name": "SD-01-20-22",
+    "title": "Re-Air from 1-20-2022 Things to Come: Revelation: Things Hereafter: The Church in Heaven -- Revelation 4",
+    "month": "January",
+    "episode": 965
+  },
+  {
+    "name": "SD-01-19-22",
+    "title": "Re-Air from 1-19-2022 Things to Come: Revelation: Things That Are: Laodicea, Lukewarm Church -- Revelation 3:14-22",
+    "month": "January",
+    "episode": 964
+  },
+  {
+    "name": "SD-01-18-22",
+    "title": "Re-Air from 1-18-2022 Things to Come: Revelation: Things That Are: Seven Churches: Sardis, Dead Church -- Revelation 3:1-6",
+    "month": "January",
+    "episode": 963
+  },
+  {
+    "name": "SD-01-17-22",
+    "title": "Re-Air from 1-17-2022 Things to Come: Revelation: Things That Are: Seven Churches: Sardis, Dead Church -- Revelation 3:1-6",
+    "month": "January",
+    "episode": 962
+  },
+  {
+    "name": "SD-01-14-22",
+    "title": "Re-Air from 1-14-2022 Things to Come: Revelation: Things that Are: Thyatira, Immoral Church -- Revelation 2:18-29",
+    "month": "January",
+    "episode": 961
+  },
+  {
+    "name": "SD-01-13-22",
+    "title": "Re-Air from 1-13-2022 Things to Come: Revelation: Things that Are: Pergamum, Worldly Church -- Revelation 2:12-17",
+    "month": "January",
+    "episode": 960
+  },
+  {
+    "name": "SD-01-12-22",
+    "title": "Re-Air from 1-12-2022 Things to Come: Revelation: Things that Are: Smyrna, Suffering Church -- Revelation 2:8-11",
+    "month": "January",
+    "episode": 959
+  },
+  {
+    "name": "SD-01-11-22",
+    "title": "Re-Air from 1-11-2022 Things to Come: Revelation: Things That Are: Ephesus: Love Lost -- Revelation 2:1-7",
+    "month": "January",
+    "episode": 958
+  },
+  {
+    "name": "SD-01-10-22",
+    "title": "Re-Air from 1-10-2022 Things to Come: Revelation: Things That Are: The Seven Churches -- Revelation 2-3",
+    "month": "January",
+    "episode": 957
+  },
+  {
+    "name": "SD-01-07-22",
+    "title": "Re-Air from 1-07-2022 Things to Come: Revelation: Things Seen: Lamps, Stars and Angels -- Revelation 1:19-20",
+    "month": "January",
+    "episode": 956
+  },
+  {
+    "name": "SD-01-06-22",
+    "title": "Re-Air from 1-06-2022 Things to Come: Revelation: Things Seen: The Glorified Christ -- Revelation 1:10-18",
+    "month": "January",
+    "episode": 955
+  },
+  {
+    "name": "SD-01-05-22",
+    "title": "Re-Air from 1-05-2022 Things to Come: Revelation: Things Seen: The Lord's Day -- Revelation 1:10",
+    "month": "January",
+    "episode": 954
+  },
+  {
+    "name": "SD-01-04-22",
+    "title": "Re-Air from 1-04-2022 Things to Come: Revelation: Things Seen: The Sevens -- Revelation 1:4-9",
+    "month": "January",
+    "episode": 953
+  },
+  {
+    "name": "SD-01-03-22",
+    "title": "Re-Air from 1-03-2022 Things to Come: Revelation: Things Seen: The Blessing -- Revelation 1:1-3",
+    "month": "January",
+    "episode": 952
+  },
+  {
+    "name": "SD-12-31-21",
+    "title": "Re-Air from 12-31-2021 Things to Come: New Heaven, Earth, Jerusalem --Revelation 21-22",
+    "month": "December",
+    "episode": 951
+  },
+  {
+    "name": "SD-12-30-21",
+    "title": "Re-Air from 12-30-2021 Things to Come: Millennial Kingdom -- Revelation 19-20",
+    "month": "December",
+    "episode": 950
+  },
+  {
+    "name": "SD-12-29-21",
+    "title": "Re-Air from 12-29-2021 Things to Come: Tribulation -- Revelation 6-18; Matthew 24",
+    "month": "December",
+    "episode": 949
+  },
+  {
+    "name": "SD-12-28-21",
+    "title": "Re-Air from 12-28-2021 Things to Come: The Rapture of the Church -- Revelation 4:1",
+    "month": "December",
+    "episode": 948
+  },
+  {
+    "name": "SD-12-27-21",
+    "title": "Re-Air from 12-27-2021 Things to Come: Future Events in Biblical Order -- Revelation 1:19",
+    "month": "December",
+    "episode": 947
+  },
+  {
+    "name": "SD-12-24-21",
+    "title": "Re-Air from 12-24-2021 Israelology: God's Dealing with Israel, Future: The Circle of Life -- Romans 11:36",
+    "month": "December",
+    "episode": 946
+  },
+  {
+    "name": "SD-12-23-21",
+    "title": "Re-Air from 12-23-2021 Israelology: God's Dealing with Israel, Future: God's Way to Israel -- Romans 11:33-35",
+    "month": "December",
+    "episode": 945
+  },
+  {
+    "name": "SD-12-22-21",
+    "title": "Re-Air from 12-22-2021 Israelology: God's Dealing with Israel, Future: God's Mercy to Israel -- Romans 11:30-32",
+    "month": "December",
+    "episode": 944
+  },
+  {
+    "name": "SD-12-21-21",
+    "title": "Re-Air from 12-14-2021 Israelology: God's Dealing with Israel, Future: Irrevocable Promises -- Romans 11:28-29",
+    "month": "December",
+    "episode": 943
+  },
+  {
+    "name": "SD-12-20-21",
+    "title": "Re-Air from 12-20-2021 Israelology: God's Dealing with Israel, Future: Israel Saved -- Romans 11:25-27",
+    "month": "December",
+    "episode": 942
+  },
+  {
+    "name": "SD-12-17-21",
+    "title": "Re-Air from 12-17-2021 Israelology: God's Dealing with Israel, Future: Israel Regrafted -- Romans 11: 23-25",
+    "month": "December",
+    "episode": 941
+  },
+  {
+    "name": "SD-12-16-21",
+    "title": "Re-Air from 12-16-2021 Israelology: God's Dealing with Israel, Future: Israel Restored -- Romans 11:16-23",
+    "month": "December",
+    "episode": 940
+  },
+  {
+    "name": "SD-12-15-21",
+    "title": "Re-Air from 12-15-2021 Israelology: God's Dealing with Israel, Future: Israel Stumbles -- Romans 11:7-16",
+    "month": "December",
+    "episode": 939
+  },
+  {
+    "name": "SD-12-14-21",
+    "title": "Re-Air from 12-14-2021 Israelology: God's Dealing with Israel, Future: Israel Not Rejected -- Romans 11:1-6",
+    "month": "December",
+    "episode": 938
+  },
+  {
+    "name": "SD-12-13-21",
+    "title": "Re-Air from 12-13-2021 Israelology: God's Dealing with Israel, Present: Israel's Unbelief Predicted -- Romans 10:18-21",
+    "month": "December",
+    "episode": 937
+  },
+  {
+    "name": "SD-12-10-21",
+    "title": "Re-Air from 12-10-2021 Israelology: God's Dealing with Israel, Present: The Word of Christ -- Romans 10:16-17",
+    "month": "December",
+    "episode": 936
+  },
+  {
+    "name": "SD-12-09-21",
+    "title": "Re-Air from 12-09-2021 Israelology: God's Dealing with Israel, Present: Calling -- Romans 10:11-15",
+    "month": "December",
+    "episode": 935
+  },
+  {
+    "name": "SD-12-08-21",
+    "title": "Re-Air from 12-08-2021 Israelology: God's Dealing with Israel, Present: Faith and Confession -- Romans 10:5-10",
+    "month": "December",
+    "episode": 934
+  },
+  {
+    "name": "SD-12-07-21",
+    "title": "Re-Air from 12-07-2021 Israelology: God's Dealing with Israel, Present: The End of the Law -- Romans 10:1-4",
+    "month": "December",
+    "episode": 933
+  },
+  {
+    "name": "SD-12-06-21",
+    "title": "Re-Air from 12-06-2021 Israelology: God's Dealing with Israel, Past: Israel's Failure -- Romans 9:30-33",
+    "month": "December",
+    "episode": 932
+  },
+  {
+    "name": "SD-12-03-21",
+    "title": "Re-Air from 12-03-2021 Israelology: God's Remnant -- Romans 9:19-29",
+    "month": "December",
+    "episode": 931
+  },
+  {
+    "name": "SD-12-02-21",
+    "title": "Re-Air from 12-02-2021 Israelology: God's Elect Nation -- Romans 9:6-18",
+    "month": "December",
+    "episode": 930
+  },
+  {
+    "name": "SD-12-01-21",
+    "title": "Re-Air from 12-01-2021 Israelology: God's Blessings for the Jews -- Romans 9:4-5",
+    "month": "December",
+    "episode": 929
+  },
+  {
+    "name": "SD-11-30-21",
+    "title": "Re-Air from 11-30-2021 Israelology: Christ's Love for the Jews -- Romans 9:1-4",
+    "month": "November",
+    "episode": 928
+  },
+  {
+    "name": "SD-11-29-21",
+    "title": "Re-Air from 11-29-2021 Israelology: The Divine Exposition -- Romans 9-11",
+    "month": "November",
+    "episode": 927
+  },
+  {
+    "name": "SD-11-26-21",
+    "title": "Re-Air from 11-26-2021 Church: Advanced Studies: A More Sure Word, Future: Guarding and Growing -- 2 Peter 3:17-18",
+    "month": "November",
+    "episode": 926
+  },
+  {
+    "name": "SD-11-25-21",
+    "title": "Re-Air from 11-25-2021 Church: Advanced Studies: A More Sure Word, Future: The Scriptures -- 2 Peter 3:15-16",
+    "month": "November",
+    "episode": 925
+  },
+  {
+    "name": "SD-11-24-21",
+    "title": "Re-Air from 11-24-2021 Church: Advanced Studies: A More Sure Word, Future: The Grace of the Lord -- 2 Peter 3:13-15",
+    "month": "November",
+    "episode": 924
+  },
+  {
+    "name": "SD-11-23-21",
+    "title": "Re-Air from 11-23-2021 Church: Advanced Studies: A More Sure Word, Future: Day of the Lord -- 2 Peter 3:10-13",
+    "month": "November",
+    "episode": 923
+  },
+  {
+    "name": "SD-11-22-21",
+    "title": "Re-Air from 11-22-2021 Church: Advanced Studies: A More Secure Word, Future: Divine Timing -- 2 Peter 3:8-9",
+    "month": "November",
+    "episode": 922
+  },
+  {
+    "name": "SD-11-19-21",
+    "title": "Re-Air from 11-19-2021 Church: Advanced Studies: A More Sure Word, Future: Willful Ignorance -- 2 Peter 3: 5-7",
+    "month": "November",
+    "episode": 921
+  },
+  {
+    "name": "SD-11-18-21",
+    "title": "Re-Air from 11-18-2021 Church: Advanced Studies: A More Sure Word, Future: Scoffers -- 2 Peter 3:3-4",
+    "month": "November",
+    "episode": 920
+  },
+  {
+    "name": "SD-11-17-21",
+    "title": "Re-Air from 11-17-2021 Church: Advanced Studies: A More Sure Word, Future: Stirring Up -- 2 Peter 3:1-2",
+    "month": "November",
+    "episode": 919
+  },
+  {
+    "name": "SD-11-16-21",
+    "title": "Re-Air from 11-16-2021 Church: Advanced Studies: A More Sure Word, Present: Apostates Doomed -- 2 Peter 2:20-22",
+    "month": "November",
+    "episode": 918
+  },
+  {
+    "name": "SD-11-15-21",
+    "title": "Re-Air from 11-15-2021 Church: Advanced Studies: A More Sure Word, Present: Apostasy Described -- 2 Peter 2:10-19",
+    "month": "November",
+    "episode": 917
+  },
+  {
+    "name": "SD-11-12-21",
+    "title": "Re-Air from 11-12-2021 Church: Advanced Studies: A More Sure Word, Present: Apostasy Illustrated -- 2 Peter 2:4-9",
+    "month": "November",
+    "episode": 916
+  },
+  {
+    "name": "SD-11-11-21",
+    "title": "Re-Air from 11-11-2021 Church: Advanced Studies: A More Sure Word, Present: Apostates Revealed -- 2 Peter 2:1-3",
+    "month": "November",
+    "episode": 915
+  },
+  {
+    "name": "SD-11-10-21",
+    "title": "Re-Air from 11-10-2021 Church: Advanced Studies: A More Sure Word, Past: Assurance: Prophetic -- 2 Peter 1:19-21",
+    "month": "November",
+    "episode": 914
+  },
+  {
+    "name": "SD-11-09-21",
+    "title": "Re-Air from 11-09-2021 Church: Advanced Studies: A More Sure Word, Past: Assurance: Apostolic -- 2 Peter 1:12-18",
+    "month": "November",
+    "episode": 913
+  },
+  {
+    "name": "SD-11-08-21",
+    "title": "Re-Air from 11-08-2021 Church: Advanced Studies: A More Sure Word, Past: Assurance: Personal -- 2 Peter 1:10-11",
+    "month": "November",
+    "episode": 912
+  },
+  {
+    "name": "SD-11-05-21",
+    "title": "Re-Air from 11-05-2021 Church: Advanced Studies: A More Sure Word, Past: Provision: Sanctification -- 2 Peter 1:5-9",
+    "month": "November",
+    "episode": 911
+  },
+  {
+    "name": "SD-11-04-21",
+    "title": "Re-Air from 11-04-2021 Church: Advanced Studies: A More Sure Word, Past: Salvation -- 2 Peter 1:1-4",
+    "month": "November",
+    "episode": 910
+  },
+  {
+    "name": "SD-11-03-21",
+    "title": "Re-Air from 11-03-2021 Church: Basic Christian Life Truth: Proof of Faith: Effective Service: Spiritual Warfare: Grace to Stand -- 1 Peter 5:9-14",
+    "month": "November",
+    "episode": 909
+  },
+  {
+    "name": "SD-11-02-21",
+    "title": "Re-Air from 11-02-2021 Church: Basic Christian Life Truth: Proof of Faith: Effective Service: Spiritual Warfare: Grace Against the Devil -- 1 Peter 5:8",
+    "month": "November",
+    "episode": 908
+  },
+  {
+    "name": "SD-11-01-21",
+    "title": "Re-Air from 11-01-2021 Church: Basic Christian Life Truth: Proof of Faith: Effective Service: Spiritual Warfare: Grace for the Humble -- 1 Peter 5:5-7",
+    "month": "November",
+    "episode": 907
+  },
+  {
+    "name": "SD-10-29-21",
+    "title": "Re-Air from 10-29-2021 Church: Basic Christian Life Truth: Proof of Faith: Effective Service: Chief Shepherd's Glory -- 1 Peter 5:1-4",
+    "month": "October",
+    "episode": 906
+  },
+  {
+    "name": "SD-10-28-21",
+    "title": "Re-Air from 10-28-2021 Church: Basic Christian life Truth: Proof of Faith: Effective Service: Glory/Exaltation -- 1 Peter 4:13-19",
+    "month": "October",
+    "episode": 905
+  },
+  {
+    "name": "SD-10-27-21",
+    "title": "Re-Air from 10-27-2021 Church: Basic Christian Life Truth: Proof of Faith: Effective Service: Glory/Testing -- 1 Peter 4:12",
+    "month": "October",
+    "episode": 904
+  },
+  {
+    "name": "SD-10-26-21",
+    "title": "Re-Air from 10-26-2021 Church: Basic Christian Life Truth: Proof of Faith: Effective Service: Spiritual Gifts -- 1 Peter 4:10-11",
+    "month": "October",
+    "episode": 903
+  },
+  {
+    "name": "SD-10-25-21",
+    "title": "Re-Air from 10-25-2021 Church: Basic Christian Life Truth: Proof of Faith: Effective Service: End Times -- 1 Peter 4:7-9",
+    "month": "October",
+    "episode": 902
+  },
+  {
+    "name": "SD-10-22-21",
+    "title": "Re-Air from 10-22-2021 Church: Basic Christian Life Truth: Proof of Faith: Conscience: Example -- 1 Peter 3:17-4:6",
+    "month": "October",
+    "episode": 901
+  },
+  {
+    "name": "SD-10-21-21",
+    "title": "Re-Air from 10-21-2021 Church: Basic Christian Life Truth: Proof of Faith: Conscience: Exhortation -- 1 Peter 3:8-16",
+    "month": "October",
+    "episode": 900
+  },
+  {
+    "name": "SD-10-20-21",
+    "title": "Re-Air from 10-20-2021 Church: Basic Christian Life Truth: Power of Faith: Sanctification: Relationships: Home -- 1 Peter 3:1-7",
+    "month": "October",
+    "episode": 899
+  },
+  {
+    "name": "SD-10-19-21",
+    "title": "Re-Air from 10-19-2021 Church: Basic Christian Life Truth: Power of Faith: Sanctification: Relationships: Society -- 1 Peter 2:18-25",
+    "month": "October",
+    "episode": 898
+  },
+  {
+    "name": "SD-10-18-21",
+    "title": "Re-Air from 10-18-2021 Church: Basic Christian Life Truth: Power of Faith: Sanctification: Relationships: Government -- 1 Peter 2:8-17",
+    "month": "October",
+    "episode": 897
+  },
+  {
+    "name": "SD-10-15-21",
+    "title": "Re-Air from 10-15-2021 Church: Basic Christian Life Truth: Power of Faith: Growth: Priesthood -- 1 Peter 2:4-10",
+    "month": "October",
+    "episode": 896
+  },
+  {
+    "name": "SD-10-14-21",
+    "title": "Re-Air from 10-14-2021 Church: Basic Christian Life Truth: Power of Faith: Sanctification: Power for Growth: Milk -- 1 Peter 2:1-3",
+    "month": "October",
+    "episode": 895
+  },
+  {
+    "name": "SD-10-13-21",
+    "title": "Re-Air from 10-13-2021 The Church: Basic Christian Life Truth: Power of Faith: Sanctification: Word of God -- 1 Peter 1:20-25",
+    "month": "October",
+    "episode": 894
+  },
+  {
+    "name": "SD-10-12-21",
+    "title": "Re-Air from 10-12-2021 The Church: Basic Christian Life Truth: Power of Faith: Sanctification: Power for Holiness: Calling/Conduct -- 1 Peter 1: 15-19",
+    "month": "October",
+    "episode": 893
+  },
+  {
+    "name": "SD-10-11-21",
+    "title": "Re-Air from 10-11-2021 The Church: Basic Christian Life Truth: Sanctification: Power for Holiness: Non-Conformity -- 1 Peter 1:13-14",
+    "month": "October",
+    "episode": 892
+  },
+  {
+    "name": "SD-10-08-21",
+    "title": "Re-Air from 10-08-2021 The Church: Basic Christian Life Truth: Salvation: Security: Mystery -- 1 Peter 1:10-12",
+    "month": "October",
+    "episode": 891
+  },
+  {
+    "name": "SD-10-07-21",
+    "title": "Re-Air from 10-07-2021 The Church: Basic Christian Life Truth: Salvation: Security: Protected -- 1 Peter 1:5-9",
+    "month": "October",
+    "episode": 890
+  },
+  {
+    "name": "SD-10-06-21",
+    "title": "Re-Air from 10-06-2021 The Church: Basic Christian Life Truth: Salvation: Security: Reserved -- 1 Peter 1:3-4",
+    "month": "October",
+    "episode": 889
+  },
+  {
+    "name": "SD-10-05-21",
+    "title": "Re-Air from 10-05-2021 The Church: Basic Christian Life Truth: Divine Sovereignty -- 1 Peter 1:1-2",
+    "month": "October",
+    "episode": 888
+  },
+  {
+    "name": "SD-10-04-21",
+    "title": "Re-Air from 10-04-2021 The Church: Basic Christian Life Truth -- 1 Peter 2:2",
+    "month": "October",
+    "episode": 887
+  },
+  {
+    "name": "SD-10-01-21",
+    "title": "Re-Air from 10-01-2021 The Church: The Local Church: Types of the Church: Shepherd's Flock -- John 10",
+    "month": "October",
+    "episode": 886
+  },
+  {
+    "name": "SD-09-30-21",
+    "title": "Re-Air from 9-30-2021 The Church:The Local Church: Types of the Church: Priest/Priesthood -- 1 Peter 2",
+    "month": "September",
+    "episode": 885
+  },
+  {
+    "name": "SD-09-29-21",
+    "title": "Re-Air from 9-29-2021 The Church: The Local Church: Types of the Church: Vine/Branches -- John 15",
+    "month": "September",
+    "episode": 884
+  },
+  {
+    "name": "SD-09-28-21",
+    "title": "Re-Air from 9-28-2021 The Church: Christian Life: Types of the Church: Cornerstone/Building -- Eph: 2",
+    "month": "September",
+    "episode": 883
+  },
+  {
+    "name": "SD-09-27-21",
+    "title": "Re-Air from 9-27-2021 The Church: Christian Life: Types of the Church: Head/Body, Bridegroom/Bride -- Eph.1, John 14",
+    "month": "September",
+    "episode": 882
+  },
+  {
+    "name": "SD-09-24-21",
+    "title": "Re-Air from 9-24-2021 The Church: The Local Church: Devotional Life: Follow Up -- Matthew 28:20",
+    "month": "September",
+    "episode": 881
+  },
+  {
+    "name": "SD-09-23-21",
+    "title": "Re-Air from 9-23-2021 The Church: The Local Church: Devotional Life: Quiet Time -- Galatians 2:20",
+    "month": "September",
+    "episode": 880
+  },
+  {
+    "name": "SD-09-22-21",
+    "title": "Re-Air from 9-22-2021 The Church: The Local Church: Devotional Life: United Prayer -- Matt. 18:19; Luke 11:1",
+    "month": "September",
+    "episode": 879
+  },
+  {
+    "name": "SD-09-21-21",
+    "title": "Re-Air from 9-21-2021 The Church: The Local Church: Devotional Life: Right Praying -- John 15:7",
+    "month": "September",
+    "episode": 878
+  },
+  {
+    "name": "SD-09-20-21",
+    "title": "Re-Air from 9-20-2021 The Church: The Local Church: Devotional Life: Talking to God -- Matthew 7: 7, 11",
+    "month": "September",
+    "episode": 877
+  },
+  {
+    "name": "SD-09-17-21",
+    "title": "Re-Air from 9-17-2021 The Church: Christian Life: Church Prayer -- Acts 1, 4, 12",
+    "month": "September",
+    "episode": 876
+  },
+  {
+    "name": "SD-09-16-21",
+    "title": "Re-Air from 9-16-2021 The Church: Christian Life: Prayer: Power -- James 5; 2 Samuel 2",
+    "month": "September",
+    "episode": 875
+  },
+  {
+    "name": "SD-09-15-21",
+    "title": "Re-Air from 9-15-2021 The Church: Christian Life: Prayer: Essentials -- James 1, 4, 5",
+    "month": "September",
+    "episode": 874
+  },
+  {
+    "name": "SD-09-14-21",
+    "title": "Re-Air from 9-14-2021 The Church: Christian Life: Prayer: Jesus' Pattern -- Luke 3,9,10",
+    "month": "September",
+    "episode": 873
+  },
+  {
+    "name": "SD-09-13-21",
+    "title": "Re-Air from 9-13-2021 The Church: Christian Life: Prayer: Your Most Powerful Weapon -- Eph. 6; Col. 4; Heb. 2",
+    "month": "September",
+    "episode": 872
+  },
+  {
+    "name": "SD-09-10-21",
+    "title": "Re-Air from 9-10-2021 The Church: Christian Life: Daily Power: Quenching and Grieving the Spirit -- 1 Thess. 5; Eph. 4",
+    "month": "September",
+    "episode": 871
+  },
+  {
+    "name": "SD-09-09-21",
+    "title": "Re-Air from 9-09-2021 The Church: Christian Life: Daily Power: Filled and Led by the Spirit -- Luke 4, Eph. 5, Gal.5",
+    "month": "September",
+    "episode": 870
+  },
+  {
+    "name": "SD-09-08-21",
+    "title": "Re-Air from 9-08-2021 The Church: Christian Life: Preparation: The Way of Victory -- Matthew 4:1-11",
+    "month": "September",
+    "episode": 869
+  },
+  {
+    "name": "SD-09-07-21",
+    "title": "Re-Air from 9-07-2021 The Church: Christian Life: The Pattern: The Lord -- Mark 1; Luke 4; Matt. 4",
+    "month": "September",
+    "episode": 868
+  },
+  {
+    "name": "SD-09-06-21",
+    "title": "Re-Air from 9-06-2021 The Church: Christian Life: Foundation: The Indwelling -- John 14:16-17",
+    "month": "September",
+    "episode": 867
+  },
+  {
+    "name": "SD-09-03-21",
+    "title": "Re-Air from 9-03-2021 The Church: The Local Church: Worship: The Lord's Day -- Rev. 1:10",
+    "month": "September",
+    "episode": 866
+  },
+  {
+    "name": "SD-09-02-21",
+    "title": "Re-Air from 9-02-2021 The Church: The Local Church: Worship: Singing -- Colossians 3:16",
+    "month": "September",
+    "episode": 865
+  },
+  {
+    "name": "SD-09-01-21",
+    "title": "Re-Air from 9-01-2021 The Church: The Local Church: Worship: Giving -- Acts 2, 2 Cor. 8-9 15",
+    "month": "September",
+    "episode": 864
+  },
+  {
+    "name": "SD-08-31-21",
+    "title": "Re-Air from 8-31-2021 The Church: The Local Church: Worship: Jesus' Key Truth -- John 4:24",
+    "month": "August",
+    "episode": 863
+  },
+  {
+    "name": "SD-08-30-21",
+    "title": "Re-Air from 8-30-2021 The Church: The Local Church: Worship: N.T. Terms",
+    "month": "August",
+    "episode": 862
+  },
+  {
+    "name": "SD-08-27-21",
+    "title": "Re-Air from 8-27-2021 The Church: The Local Church: Ordinances: Foot Washing --John 13",
+    "month": "August",
+    "episode": 861
+  },
+  {
+    "name": "SD-08-26-21",
+    "title": "Re-Air from 8-26-2021 The Church: The Local Church: Ordinances: Baptism: Problem Passages -- 1 Peter 3:18-22",
+    "month": "August",
+    "episode": 860
+  },
+  {
+    "name": "SD-08-25-21",
+    "title": "Re-Air from 8-25-2021 The Church: The Local Church: Ordinances: Baptism: Problem Passages -- Mark 16, Acts 2, 8, 1 Cor. 15",
+    "month": "August",
+    "episode": 859
+  },
+  {
+    "name": "SD-08-24-21",
+    "title": "Re-Air from 8-24-2021 The Church: The Local Church: Ordinances: Baptism: Immersion -- Acts 8:36-39",
+    "month": "August",
+    "episode": 858
+  },
+  {
+    "name": "SD-08-23-21",
+    "title": "Re-Air from 8-23-2021 The Church: The Local Church: Ordinances: Baptism: Believers -- Matt. 28:19",
+    "month": "August",
+    "episode": 857
+  },
+  {
+    "name": "SD-08-20-21",
+    "title": "Re-Air from 8-20-2021 The Church: The Local Church: Ordinances: The Lord's Table: Self Judgment -- 1 Cor. 11: 27-34",
+    "month": "August",
+    "episode": 856
+  },
+  {
+    "name": "SD-08-19-21",
+    "title": "Re-Air from 8-19-2021 The Church: The Local Church: Ordinances: The Lord's Table: In Remembrance -- 1 Cor. 11: 26-32",
+    "month": "August",
+    "episode": 855
+  },
+  {
+    "name": "SD-08-18-21",
+    "title": "Re-Air from 8-18-2021 The Church: The Local Church: Ordinances: The First Lord's Supper -- Matt. 26, Mark 14, Luke 22",
+    "month": "August",
+    "episode": 854
+  },
+  {
+    "name": "SD-08-17-21",
+    "title": "Re-Air from 8-17-2021 The Church: The Local Church: Ordinances The Lord's Supper: Calvinist/Memorial Views",
+    "month": "August",
+    "episode": 853
+  },
+  {
+    "name": "SD-08-16-21",
+    "title": "Re-Air from 8-16-2021 The Church: The Local Church: Ordinances: The Lord's Supper: Trans and Con Views",
+    "month": "August",
+    "episode": 852
+  },
+  {
+    "name": "SD-08-13-21",
+    "title": "Re-Air from 8-13-2021 The Church: The Local Church: The Good Fight -- 1 Timothy 6:11-21",
+    "month": "August",
+    "episode": 851
+  },
+  {
+    "name": "SD-08-12-21",
+    "title": "Re-Air from 8-12-2021 The Church: The Local Church: Money Love -- 1 Timothy 6:6-10",
+    "month": "August",
+    "episode": 850
+  },
+  {
+    "name": "SD-08-11-21",
+    "title": "Re-Air from 8-11-2021 The Church: The Local Church: Godly Doctrine -- 1 Timothy 6:1-5",
+    "month": "August",
+    "episode": 849
+  },
+  {
+    "name": "SD-08-10-21",
+    "title": "Re-Air from 8-10-2021 The Church: The Local Church -- Elder Care -- 1 Timothy 5:17-25",
+    "month": "August",
+    "episode": 848
+  },
+  {
+    "name": "SD-08-09-21",
+    "title": "Re-Air from 8-09-2021 The Church: The Local Church: Family Fellowship -- 1 Timothy 5:1-16",
+    "month": "August",
+    "episode": 847
+  },
+  {
+    "name": "SD-08-06-21",
+    "title": "Re-Air from 8-06-2021 The Church: The Local Church: Godly Service -- 1 Timothy 4:6-16",
+    "month": "August",
+    "episode": 846
+  },
+  {
+    "name": "SD-08-05-21",
+    "title": "Re-Air from 8-05-2021 The Church: The Local Church: The Falling Away -- 1 Timothy 3:14-4:5",
+    "month": "August",
+    "episode": 845
+  },
+  {
+    "name": "SD-08-04-21",
+    "title": "Re-Air from 8-04-2021 The Church: The Local Church: Deacons Ordained -- Acts 6",
+    "month": "August",
+    "episode": 844
+  },
+  {
+    "name": "SD-08-03-21",
+    "title": "Re-Air from 8-03-2021 The Church: The Local Church: Deacon Qualifications -- 1 Timothy 3:8-13",
+    "month": "August",
+    "episode": 843
+  },
+  {
+    "name": "SD-08-02-21",
+    "title": "Re-Air from 8-02-2021 The Church: The Local Church: Elder Qualifications -- 1 Timothy 3:2-7",
+    "month": "August",
+    "episode": 842
+  },
+  {
+    "name": "SD-07-30-21",
+    "title": "Re-Air from 7-30-2021 The Church: The Local Church: Leaders: Elders -- 1 Tim. 3; 1 Peter 5; Acts 20",
+    "month": "July",
+    "episode": 841
+  },
+  {
+    "name": "SD-07-29-21",
+    "title": "Re-Air from 7-29-2021 The Church: The Local Church: Individual Responsibility -- 1 Timothy 1:18-2:15",
+    "month": "July",
+    "episode": 840
+  },
+  {
+    "name": "SD-07-28-21",
+    "title": "Re-Air from 7-28-2021 The Church: The Local Church: Doctrine Foundation -- 1 Timothy 1:3-17",
+    "month": "July",
+    "episode": 839
+  },
+  {
+    "name": "SD-07-27-21",
+    "title": "Re-Air from 7-27-2021 The Church: The Local Church: The Household of God -- 1 Timothy 3:15",
+    "month": "July",
+    "episode": 838
+  },
+  {
+    "name": "SD-07-26-21",
+    "title": "Re-Air from 7-26-2021 The Church: The True Church: The Body of Christ -- Ephesians 1:22-23",
+    "month": "July",
+    "episode": 837
+  },
+  {
+    "name": "SD-07-23-21",
+    "title": "Re-Air from 7-23-2021 The Church: New Heaven and Earth -- Revelation 21-22",
+    "month": "July",
+    "episode": 836
+  },
+  {
+    "name": "SD-07-22-21",
+    "title": "Re-Air from 7-22-2021 The Church: Dispensationalism: The Kingdom: Sermon on the Mount -- Matthew 5-7",
+    "month": "July",
+    "episode": 835
+  },
+  {
+    "name": "SD-07-21-21",
+    "title": "Re-Air from 7-21-2021 The Church: Dispensationalism: The Kingdom: New Covenant -- Jeremiah 31; Hebrews 8",
+    "month": "July",
+    "episode": 834
+  },
+  {
+    "name": "SD-07-20-21",
+    "title": "Re-Air from 7-20-2021 The Church: Dispensationalism: The Kingdom: The End -- Rev. 20:7-15",
+    "month": "July",
+    "episode": 833
+  },
+  {
+    "name": "SD-07-19-21",
+    "title": "Re-Air from 7-19-2021 The Church: Dispensationalism: The Kingdom: Overview -- Rev. 19-20",
+    "month": "July",
+    "episode": 832
+  },
+  {
+    "name": "SD-07-16-21",
+    "title": "Re-Air from 7-16-2021 The Church: Dispensationalism: Grace: Ultradispensationalism -- 1 Cor. 12:13",
+    "month": "July",
+    "episode": 831
+  },
+  {
+    "name": "SD-07-15-21",
+    "title": "Re-Air from 7-15-2021 The Church: Dispensationalism: Grace: Opponents -- Galatians 4",
+    "month": "July",
+    "episode": 830
+  },
+  {
+    "name": "SD-07-14-21",
+    "title": "Re-Air from 7-14-2021 The Church: Dispensationalism: Grace: Spirit's Law -- Galatians 5",
+    "month": "July",
+    "episode": 829
+  },
+  {
+    "name": "SD-07-13-21",
+    "title": "Re-Air from 7-13-2021 The Church: Dispensationalism: Grace: Mystery -- Ephesians 2, Colossians 1",
+    "month": "July",
+    "episode": 828
+  },
+  {
+    "name": "SD-07-12-21",
+    "title": "Re-Air from 7-12-2021 The Church: Dispensationalism: Grace: Essentials --Acts 2-Revelation 3",
+    "month": "July",
+    "episode": 827
+  },
+  {
+    "name": "SD-07-09-21",
+    "title": "Re-Air from 7-9-2021 The Church: Dispensationalism: The Law: Intentionally Temporary -- Galatians 3:10",
+    "month": "July",
+    "episode": 826
+  },
+  {
+    "name": "SD-07-08-21",
+    "title": "Re-Air from 7-08-2021 The Church: Dispensationalism: The Law: Sabbath -- Galatians 3; Colossians 2",
+    "month": "July",
+    "episode": 825
+  },
+  {
+    "name": "SD-07-07-21",
+    "title": "Re-Air from 7-07-2021 The Church: Dispensationalism: The Law: Tabernacle Types -- Exodus 37",
+    "month": "July",
+    "episode": 824
+  },
+  {
+    "name": "SD-07-06-21",
+    "title": "Re-Air from 7-06-2021 The Church: Dispensationalism: The Law: The Golden Calf -- Exodus 19-32",
+    "month": "July",
+    "episode": 823
+  },
+  {
+    "name": "SD-07-05-21",
+    "title": "Re-Air from 7-05-2021 The Church: Dispensationalism: The Law: Overview -- Exodus 19-Acts 1",
+    "month": "July",
+    "episode": 822
+  },
+  {
+    "name": "SD-07-02-21",
+    "title": "Re-Air from 7-02-2021 The Church: Dispensationalism: Promise, II -- Genesis 12:1-Exodus 18:27",
+    "month": "July",
+    "episode": 821
+  },
+  {
+    "name": "SD-07-01-21",
+    "title": "Re-Air from 7-01-2021 The Church: Dispensationalism: Promise. I -- Genesis 1-3",
+    "month": "July",
+    "episode": 820
+  },
+  {
+    "name": "SD-06-30-21",
+    "title": "Re-Air from 6-30-2021 The Church: Dispensationalism: Civil Government -- Genesis 8:11",
+    "month": "June",
+    "episode": 819
+  },
+  {
+    "name": "SD-06-29-21",
+    "title": "Re-Air from 6-29-2021 The Church: Dispensationalism: Conscience -- Genesis 3-8",
+    "month": "June",
+    "episode": 818
+  },
+  {
+    "name": "SD-06-28-21",
+    "title": "Re-Air from 6-28-2021 The Church: Dispensationalism: Innocence -- Genesis 1-3",
+    "month": "June",
+    "episode": 817
+  },
+  {
+    "name": "SD-06-25-21",
+    "title": "Re-Air from 6-25-2021 The Church: Dispensations: Characteristics: Galatians 3",
+    "month": "June",
+    "episode": 816
+  },
+  {
     "name": "SD-06-24-21",
     "title": "Re-Air from 6-24-2021 The Church: Dispensations: Essentials -- Ephesians 3:1-12",
     "month": "June",
@@ -1578,7 +3438,7 @@
     "episode": 550
   },
   {
-    "name": "SD-05-11-22",
+    "name": "SD-05-12-22",
     "title": "5-12-2022 Doctrine of God: names of God: Father: Father of Prayer -- Luke 11:1-13",
     "month": "May",
     "episode": 549
@@ -1812,7 +3672,7 @@
     "episode": 511
   },
   {
-    "name": "SD-03-17-22",
+    "name": "SD-03-18-22",
     "title": "3-18-2022 Doctrine of Revelation: Natural Revelation: The Advantage of the Jews -- Romans 3:1-8",
     "month": "March",
     "episode": 510
